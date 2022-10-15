@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Aileron-Black
+font link: http://dotcolon.net/font/aileron/
+font author: dot colon
+font author site: http://dotcolon.net/
+Slogan Font: nevis
+
+icon designer: Yu luck
+icon designer link: /yuluck
+        
+
+fontColor: {"gradient-0":"#676767","gradient-1":"#9D5F27"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#676767","gradient-1":"#9D5F27"}
+sloganColor: {"gradient-0":"#676767","gradient-1":"#676767"}
+      
